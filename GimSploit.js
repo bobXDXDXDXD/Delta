@@ -1,1 +1,1 @@
-fetch("https://github.com/TheLazySquid/GimkitCheat/raw/refs/heads/main/build/bundle.user.js") .then((res) => res.text() .then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/TheLazySquid/GimkitCheat/refs/heads/main/build/bundle.js") .then((res) => res.text() .then((t) => eval(t)))
