@@ -1,2 +1,2 @@
 # Delta
-min.js
+Dynamic Fetch Execution
