@@ -693,4 +693,4 @@ setInterval(function () {
 }, 1)
 
 
-// Made by @jokeri2222, ported for ease-of-use
+// Made by @jokeri2222, ported for ease-of-use purposes
