@@ -1,15 +1,1 @@
-(function($) {
-    var _0xabc = function() {
-        return {
-            'c': false,
-            'sA': true,
-            'sRA': true
-        };
-    };
-    
-    var _0xdef = "#worksheet-preview";
-    
-    $(function() {
-        $(_0xdef).worksheetPreview("validation", _0xabc());
-    });
-})(jQuery);
+jQuery("#worksheet-preview").worksheetPreview("validation",{clicked:!1,showAnswers:!0,showRightAnswers:!0});
